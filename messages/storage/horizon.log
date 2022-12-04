@@ -1,0 +1,132 @@
+Horizon started successfully.
+Horizon started successfully.
+  2022-12-04 12:02:19 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 12:02:19 App\Jobs\AddNewParentMessageJob ........... 37.34ms DONE
+  2022-12-04 12:10:33 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 12:10:33 App\Jobs\AddNewChildMessageJob ............ 61.57ms DONE
+  2022-12-04 12:11:21 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 12:11:21 App\Jobs\AddNewChildMessageJob ............ 19.01ms DONE
+  2022-12-04 12:11:45 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 12:11:45 App\Jobs\AddNewChildMessageJob ............ 38.04ms DONE
+  2022-12-04 12:14:49 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 12:14:49 App\Jobs\DeleteParentMessageJob ........... 18.66ms DONE
+  2022-12-04 12:14:58 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 12:14:58 App\Jobs\DeleteParentMessageJob ........... 34.55ms DONE
+  2022-12-04 12:15:19 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 12:15:19 App\Jobs\AddNewParentMessageJob ........... 10.77ms DONE
+  2022-12-04 12:15:25 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 12:15:25 App\Jobs\DeleteParentMessageJob ........... 34.66ms DONE
+  2022-12-04 13:08:52 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:08:52 App\Jobs\AddNewParentMessageJob ........... 48.50ms DONE
+  2022-12-04 13:08:58 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:08:58 App\Jobs\DeleteParentMessageJob ........... 17.51ms FAIL
+  2022-12-04 13:09:37 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:09:37 App\Jobs\DeleteParentMessageJob ............ 1.40ms FAIL
+  2022-12-04 13:09:58 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:09:58 App\Jobs\DeleteParentMessageJob ........... 31.84ms DONE
+  2022-12-04 13:11:25 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:11:26 App\Jobs\DeleteParentMessageJob ............ 5.39ms DONE
+  2022-12-04 13:11:56 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:11:56 App\Jobs\DeleteParentMessageJob ........... 30.78ms DONE
+  2022-12-04 13:12:26 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:12:26 App\Jobs\DeleteParentMessageJob ............ 1.81ms DONE
+  2022-12-04 13:12:53 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:12:53 App\Jobs\DeleteParentMessageJob ........... 70.06ms DONE
+  2022-12-04 13:13:05 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:13:05 App\Jobs\AddNewParentMessageJob ........... 49.55ms DONE
+  2022-12-04 13:13:08 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:13:08 App\Jobs\DeleteParentMessageJob ........... 14.26ms FAIL
+  2022-12-04 13:23:20 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:23:20 App\Jobs\DeleteParentMessageJob ............ 6.00ms FAIL
+  2022-12-04 13:26:51 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:26:51 App\Jobs\DeleteParentMessageJob ........... 40.66ms DONE
+  2022-12-04 13:27:12 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:27:12 App\Jobs\AddNewParentMessageJob ........... 37.49ms DONE
+  2022-12-04 13:27:18 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:27:18 App\Jobs\DeleteParentMessageJob ........... 34.74ms DONE
+  2022-12-04 13:27:48 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:27:48 App\Jobs\AddNewParentMessageJob ............ 7.72ms DONE
+  2022-12-04 13:35:02 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:35:02 App\Jobs\DeleteParentMessageJob ........... 42.31ms FAIL
+  2022-12-04 13:35:26 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:35:26 App\Jobs\AddNewParentMessageJob ........... 24.20ms DONE
+  2022-12-04 13:35:29 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:35:29 App\Jobs\DeleteParentMessageJob ............ 5.04ms FAIL
+  2022-12-04 13:37:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:37:51 App\Jobs\AddNewParentMessageJob ........... 82.04ms DONE
+  2022-12-04 13:38:06 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:38:06 App\Jobs\DeleteParentMessageJob ........... 40.87ms DONE
+  2022-12-04 13:38:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:38:51 App\Jobs\AddNewParentMessageJob ........... 19.30ms FAIL
+  2022-12-04 13:38:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:38:51 App\Jobs\AddNewParentMessageJob ............ 5.71ms DONE
+  2022-12-04 13:38:54 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:38:54 App\Jobs\DeleteParentMessageJob ........... 40.79ms DONE
+  2022-12-04 13:39:30 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:39:30 App\Jobs\AddNewParentMessageJob ........... 11.32ms DONE
+  2022-12-04 13:39:33 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:39:33 App\Jobs\DeleteParentMessageJob ............ 4.41ms DONE
+  2022-12-04 13:50:57 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:50:57 App\Jobs\AddNewParentMessageJob .......... 123.33ms DONE
+  2022-12-04 13:51:00 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:51:00 App\Jobs\DeleteParentMessageJob ........... 55.08ms DONE
+  2022-12-04 13:51:52 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:51:52 App\Jobs\AddNewParentMessageJob .......... 105.07ms DONE
+  2022-12-04 13:51:57 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:51:57 App\Jobs\DeleteParentMessageJob ........... 36.72ms DONE
+  2022-12-04 13:53:40 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:53:40 App\Jobs\AddNewParentMessageJob ........... 20.72ms DONE
+  2022-12-04 13:53:46 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:53:46 App\Jobs\DeleteParentMessageJob ............ 6.79ms DONE
+  2022-12-04 13:54:01 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:54:01 App\Jobs\AddNewParentMessageJob ........... 91.68ms DONE
+  2022-12-04 13:54:04 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:54:04 App\Jobs\DeleteParentMessageJob ........... 46.75ms DONE
+  2022-12-04 13:54:25 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:54:25 App\Jobs\AddNewParentMessageJob ........... 19.58ms DONE
+  2022-12-04 13:54:28 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:54:28 App\Jobs\DeleteParentMessageJob ........... 10.60ms DONE
+  2022-12-04 13:55:04 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:55:04 App\Jobs\AddNewParentMessageJob ........... 12.51ms DONE
+  2022-12-04 13:55:07 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:55:07 App\Jobs\DeleteParentMessageJob ........... 40.11ms FAIL
+  2022-12-04 13:56:50 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:56:50 App\Jobs\AddNewParentMessageJob ........... 12.60ms DONE
+  2022-12-04 13:56:53 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:56:53 App\Jobs\DeleteParentMessageJob ........... 38.92ms DONE
+  2022-12-04 13:57:11 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:57:11 App\Jobs\AddNewParentMessageJob ........... 14.17ms DONE
+  2022-12-04 13:57:17 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:57:17 App\Jobs\DeleteParentMessageJob ........... 36.57ms DONE
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ........... 16.78ms DONE
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ............ 2.63ms DONE
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:58:51 App\Jobs\AddNewParentMessageJob ........... 50.11ms DONE
+  2022-12-04 13:58:53 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 13:58:53 App\Jobs\AddNewParentMessageJob ........... 36.34ms DONE
+  2022-12-04 13:58:59 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 13:58:59 App\Jobs\DeleteParentMessageJob ........... 42.68ms DONE
+  2022-12-04 14:03:46 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 14:03:46 App\Jobs\AddNewChildMessageJob ............ 44.22ms DONE
+  2022-12-04 14:03:52 App\Jobs\DeleteChildMessageJob ................. RUNNING
+  2022-12-04 14:03:52 App\Jobs\DeleteChildMessageJob ............ 19.00ms DONE
+  2022-12-04 14:04:04 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 14:04:04 App\Jobs\AddNewChildMessageJob ............ 73.37ms DONE
+  2022-12-04 14:04:07 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 14:04:07 App\Jobs\DeleteParentMessageJob ........... 20.43ms DONE
+  2022-12-04 14:17:35 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 14:17:35 App\Jobs\AddNewChildMessageJob ............ 22.86ms DONE
+  2022-12-04 14:39:02 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 14:39:02 App\Jobs\DeleteParentMessageJob ........... 58.48ms DONE
+  2022-12-04 15:00:53 App\Jobs\AddNewParentMessageJob ................ RUNNING
+  2022-12-04 15:00:53 App\Jobs\AddNewParentMessageJob ........... 15.30ms DONE
+  2022-12-04 15:18:33 App\Jobs\DeleteParentMessageJob ................ RUNNING
+  2022-12-04 15:18:33 App\Jobs\DeleteParentMessageJob ........... 40.59ms DONE
+  2022-12-04 15:33:13 App\Jobs\AddNewChildMessageJob ................. RUNNING
+  2022-12-04 15:33:13 App\Jobs\AddNewChildMessageJob ............ 37.35ms DONE
+  2022-12-04 15:40:42 App\Jobs\AddNewLikeJob ......................... RUNNING
+  2022-12-04 15:40:42 App\Jobs\AddNewLikeJob .................... 46.53ms DONE
+  2022-12-04 15:40:45 App\Jobs\AddNewLikeJob ......................... RUNNING
+  2022-12-04 15:40:45 App\Jobs\AddNewLikeJob .................... 36.54ms DONE
